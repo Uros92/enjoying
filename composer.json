@@ -1,0 +1,11 @@
+{
+    "name": "stole/enjoying_uros_stosic",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Uros",
+            "email": "stosicuros12345@gmail.com"
+        }
+    ],
+    "require": {}
+}
